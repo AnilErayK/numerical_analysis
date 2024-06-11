@@ -120,7 +120,7 @@ print("En küçük özvektör:", smallest_eigenvector if smallest_eigenvector is
 
 
 print("\n\n########################################## Newton-Raphson ##############################################")
-print("\n\t1")
+print("\t1")
 def f(x):
     return x**3 - np.exp(-np.sqrt(x)) - 1
 
